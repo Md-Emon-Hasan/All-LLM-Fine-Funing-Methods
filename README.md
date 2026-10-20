@@ -4,6 +4,16 @@
 
 **A complete, reproducible reference for fine-tuning transformer models — from first principles to a deployed application.**
 
+<img width="922" height="615" alt="Image" src="https://github.com/user-attachments/assets/bf2657db-e96b-4546-8e62-f700ccb9af1c" />
+
+---
+
+## 🔭 LLM Models & Blogs:
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/emonHasan01)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@emon.mlengineer)
+
+---
+
 Nine end-to-end projects covering full fine-tuning, LoRA, QLoRA, Unsloth-accelerated training, quantization internals, and low-resource (Bangla) language modelling. Every notebook trains on a single 16 GB NVIDIA T4, reports measured before/after metrics, and ships its weights to the Hugging Face Hub.
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
