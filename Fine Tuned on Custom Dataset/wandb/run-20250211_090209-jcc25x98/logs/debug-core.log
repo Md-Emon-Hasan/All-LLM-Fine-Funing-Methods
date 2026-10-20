@@ -1,6 +1,0 @@
-{"time":"2025-02-11T09:02:10.071863609Z","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmp31gro74l/port-499.txt","pid":499,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
-{"time":"2025-02-11T09:02:10.077271314Z","level":"INFO","msg":"Will exit if parent process dies.","ppid":499}
-{"time":"2025-02-11T09:02:10.08016038Z","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":41601,"Zone":""}}
-{"time":"2025-02-11T09:02:10.131710321Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:45600"}
-{"time":"2025-02-11T09:02:10.145936829Z","level":"INFO","msg":"handleInformInit: received","streamId":"jcc25x98","id":"127.0.0.1:45600"}
-{"time":"2025-02-11T09:02:10.257799869Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"jcc25x98","id":"127.0.0.1:45600"}
